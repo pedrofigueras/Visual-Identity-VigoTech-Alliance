@@ -11,12 +11,12 @@ Por último, el motivo principal de la creación de este proyecto: la unión de 
 Es decir, “hacer piña” para avanzar como colectivo lo que como individuo resulta muy difícil. En esta línea, el símbolo de piña de pino, simbolizamos esa unión y que integrándola en la palabra Vigo, reforzamos la idea de la zona a la que pertenece.
 
 
-# Repositorio
+## Repositorio
 
 En este repositorio se encuentran las distintas aplicaciones del logo en varios formatos como: Illustrator, PDF, SVG, PNG y JPG.
 
 
-# Ficha de Identidad Visual
+## Ficha de Identidad Visual
 
 También se puede encontrar la ficha de identidad visual en formato pdf que constituye una guía básica para la aplicación de la marca a través del correcto uso de sus signos de identidad visual. 
 
