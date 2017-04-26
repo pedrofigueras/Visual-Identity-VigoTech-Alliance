@@ -36,7 +36,7 @@ RGB 232, 74, 95
 Hex #e84a5f
 RAL 3017
 ``` 
-**Colores secundarios
+**Colores secundarios**
 ``` 
 Pantone 2029 C
 CMYK 0, 63, 49, 0
