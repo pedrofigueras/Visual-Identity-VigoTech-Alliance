@@ -28,13 +28,16 @@ El uso de una tipografía común contribuye a la difusión y consolidación de u
 
 Para una mayor homogenización de los elementos cromáticos, se presenta en este apartado las referencias Pantone de los colores señalados como corporativos, así como sus equivalencias en cuatricromía y otros formatos digitales.
 
+**Color principal**
 ``` 
 Pantone 198 C
 CMYK 0, 82, 37, 0
 RGB 232, 74, 95
 Hex #e84a5f
 RAL 3017
-
+``` 
+**Colores secundarios
+``` 
 Pantone 2029 C
 CMYK 0, 63, 49, 0
 RGB 255, 132, 124
@@ -58,6 +61,7 @@ CMYK 65, 43, 26, 78
 RGB 42, 54, 59
 Hex #2a363b
 RAL 5008
+``` 
 
 
 ## Repositorio
